@@ -1,6 +1,4 @@
-package Reservas;
 
-public class ComentariosJavadoc {
 	<!DOCTYPE html>
 	<html lang="es">
 	<head>
@@ -49,4 +47,4 @@ public class ComentariosJavadoc {
 	</body>
 	</html>
 
-}
+
